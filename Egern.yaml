@@ -42,5 +42,15 @@ DOMAIN,paste.c-net.org
 DOMAIN-SUFFIX,uguu.se
 DOMAIN,litterbox.catbox.moe
 DOMAIN,litter.catbox.moe
+DOMAIN,api.injahow.cn,DIRECT
+DOMAIN,m.kugou.com,DIRECT
+DOMAIN,music.163.com,DIRECT
+DOMAIN,c.y.qq.com,DIRECT
+DOMAIN-SUFFIX,lrclib.net,DIRECT
+DOMAIN,api.injahow.cn
+DOMAIN,m.kugou.com
+DOMAIN,music.163.com
+DOMAIN,c.y.qq.com
+DOMAIN-SUFFIX,lrclib.net
 
 
