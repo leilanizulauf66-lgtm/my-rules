@@ -29,3 +29,10 @@ DOMAIN,doppiocdn.org
 DOMAIN,doppiocdn.com
 DOMAIN,growcdnssedge.com
 DOMAIN，github.com
+DOMAIN-SUFFIX,stripchat.com,PROXY
+DOMAIN-SUFFIX,stripchat.global,PROXY
+DOMAIN-SUFFIX,mavrtracktor.com,PROXY
+DOMAIN-SUFFIX,sacfedge.com,PROXY
+DOMAIN-SUFFIX,doppiocdn.org,PROXY
+DOMAIN-SUFFIX,doppiocdn.com,PROXY
+DOMAIN-SUFFIX,growcdnssedge.com,PROXY
