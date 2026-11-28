@@ -52,8 +52,6 @@ DOMAIN,m.kugou.com
 DOMAIN,music.163.com
 DOMAIN,c.y.qq.com
 DOMAIN-SUFFIX,lrclib.net
-
-
 DOMAIN,api5-normal-sinfonlineb.fqnovel.com
 DOMAIN,api5-normal-sinfonlinea.fqnovel.com
 DOMAIN,api5-normal-sinfonline-f.fqnovel.com
@@ -75,3 +73,4 @@ DOMAIN,ha2.dd.frcfwb.cn,DIRECT
 DOMAIN,ehapp2.dd.frcfwb.cn,DIRECT
 DOMAIN,cc.xn--zoomm.com,DIRECT
 DOMAIN,image.zhihuishu.com,DIRECT
+DOMAIN-SUFFIX,Microsoftstore.com.cn,DIRECT
